@@ -1,0 +1,12 @@
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\bin\Debug\net9.0\KanbanBoard.Core.deps.json
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\bin\Debug\net9.0\KanbanBoard.Core.dll
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\bin\Debug\net9.0\KanbanBoard.Core.pdb
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\obj\Debug\net9.0\KanbanBoard.Core.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\obj\Debug\net9.0\KanbanBoard.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\obj\Debug\net9.0\KanbanBoard.Core.AssemblyInfoInputs.cache
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\obj\Debug\net9.0\KanbanBoard.Core.AssemblyInfo.cs
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\obj\Debug\net9.0\KanbanBoard.Core.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\obj\Debug\net9.0\KanbanBoard.Core.dll
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\obj\Debug\net9.0\refint\KanbanBoard.Core.dll
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\obj\Debug\net9.0\KanbanBoard.Core.pdb
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Core\obj\Debug\net9.0\ref\KanbanBoard.Core.dll

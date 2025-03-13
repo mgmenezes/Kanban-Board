@@ -1,0 +1,15 @@
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\bin\Debug\net9.0\KanbanBoard.Infrastructure.deps.json
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\bin\Debug\net9.0\KanbanBoard.Infrastructure.dll
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\bin\Debug\net9.0\KanbanBoard.Infrastructure.pdb
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\bin\Debug\net9.0\KanbanBoard.Core.dll
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\bin\Debug\net9.0\KanbanBoard.Core.pdb
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\KanbanBoard.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\KanbanBoard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\KanbanBoard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\KanbanBoard.Infrastructure.AssemblyInfo.cs
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\KanbanBoard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\KanbanBo.FB24E98C.Up2Date
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\KanbanBoard.Infrastructure.dll
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\refint\KanbanBoard.Infrastructure.dll
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\KanbanBoard.Infrastructure.pdb
+C:\Users\moise\Documents\KanbanBoard\backend\KanbanBoard.Infrastructure\obj\Debug\net9.0\ref\KanbanBoard.Infrastructure.dll
