@@ -6,7 +6,7 @@ KanbanBoard é uma aplicação web para gerenciamento de tarefas utilizando a me
 ## Tecnologias Utilizadas
 
 ### Backend
-- .NET 6
+- .NET 9
 - ASP.NET Core Web API
 - Entity Framework Core
 - SQL Server
